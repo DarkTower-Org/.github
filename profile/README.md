@@ -7,9 +7,15 @@
 | Contest | High risk | Medium risk | Low risk | Security report | Language |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | Vyper |  0 | 0 | 2 | [Report](https://www.codehawks.com/report/cll5rujmw0001js08menkj7hc) | Python |
-| Decent | 3 | 0 | QA | [Report Not Published]| Solidity |
+| Decent | 1 | 0 | QA | [Report Not Published]| Solidity |
 | Curves | 2 | 3 | QA | [Report Not Published] | Solidity |
 | Canto Application | 0 | 1 | 0 | [Report](https://code4rena.com/reports/2023-11-canto)| Solidity |
+| Wildcat Protocol ||||||
+| Nextgen Protocol ||||||
+| Ethena Labs ||||||
+| Standard ||||||
+| DittoETH ||||||
+| SteadiFi ||||||
 
 
 
