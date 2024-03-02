@@ -1,10 +1,8 @@
-## Hi there 👋
-
 # About DarkTower
 
-# Wall of achievements
-## Public Contests
+## Wall of achievements
 
+## Public Contests
 | Contest | High risk | Medium risk | Low risk | Security report | Language |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | Vyper |  0 | 0 | 2 | [Report](https://www.codehawks.com/report/cll5rujmw0001js08menkj7hc) | Python |
@@ -23,7 +21,7 @@
 |:--:|:--:|:--:|:--:|:--:|
 
 
-### Bug bounties
+## Bug bounties
 | Project | Severity | Security Report | Status | Platfrom
 |:--:|:--:|:--:|:--:|:--:|
 | - | - | - | - | - |
