@@ -15,6 +15,8 @@
 | Standard ||||||
 | DittoETH ||||||
 | SteadiFi ||||||
+| GMX Formal Verification ||||||
+| EBTC Formal Verification ||||||
 
 ## Private Audits
 | Contest | High risk | Medium risk | Security report  | Language |
