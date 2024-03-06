@@ -1,4 +1,3 @@
-# About DarkTower
 DarkTower is a small team of web3 security researchers exploring and experimenting in the blockchain space. We spend 66% of our time experimenting in public contests, 23% experimenting with new attack vectors, and 11% developing techniques to protect users surfing the Defi space.
 
 ## Wall of achievements
